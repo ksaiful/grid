@@ -1,0 +1,6 @@
+.box{
+	border: 3px solid red;
+	background-color: purple;
+	min-height: 100px;
+	margin-bottom: 50px;
+}
